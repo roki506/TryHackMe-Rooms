@@ -1,2 +1,4 @@
 # Team-Consistency-Notes
-Notes on TryHackMeRooms
+Hello from Team Consistency 
+
+Check out our TryHackMe room write up here ! :) 
